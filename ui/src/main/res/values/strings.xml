@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+
+    <!-- MOVIES -->
+    <string name="movie_release_date">Release Date: %1$s</string>
+    <string name="movie_rating">Rating :%.1f</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="error_retry">Retry</string>
+    <string name="activity_rated_movies">Rated Movies</string>
+</resources>
