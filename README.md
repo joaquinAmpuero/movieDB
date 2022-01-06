@@ -2,7 +2,7 @@
 Example containing a list of featured movies and popular movies.
 
 ## Architecture.
-I used MVVM Arquitectural pattern following Clean Architecture, the project is divid in three modules, Domain, Data and Ui.
+I used MVVM Arquitectural pattern following Clean Architecture, the project is divided in three modules, Domain, Data and Ui.
 
 ### Domain
 Domain module is the inner layer in the Clean Architecture, is coded only in Kotlin and don't have Android dependencies.
