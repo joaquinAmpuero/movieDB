@@ -1,5 +1,5 @@
 # movieDB
-Example containing a list of featured movies and popular movies.
+Example containing a list of Rated movies and Popular movies.
 
 ## Architecture.
 I used MVVM Arquitectural pattern following Clean Architecture, the project is divided in three modules, Domain, Data and Ui.
