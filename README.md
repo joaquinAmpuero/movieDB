@@ -23,7 +23,7 @@ Data module have domain dependency and is the module that handle the data source
 
 #### Remote data source
 For this data source(IMovieRemoteDataSource) I used Retrofit and created a module with this implementation using Hilt for the dependency injections and usage of this, and suspended functions to handle the asynchronous calls.
-There’s a interface MovieService that has the retrofit definitions of the get classes that are implemented, for get the rated movies, and popular movies.
+There’s a interface MovieService that has the retrofit definitions of the get methods that are implemented, for get the rated movies, and popular movies.
 This remote data source was unit tested.
 
 #### Local data source
